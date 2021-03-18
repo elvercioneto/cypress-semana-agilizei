@@ -1,0 +1,18 @@
+{
+  "name": "semana-agilizei",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run:mobile": "npx cypress run --config viewportWidth=411,viewportHeigth=823",
+    "cypress:run": "npx cypress run",
+    "cypress:run:dash": "npx cypress run --record --key 8c9c24ab-ad11-40d3-a311-f0716b35b868"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.7.0"
+  },
+  "dependencies": {},
+  "description": ""
+}
