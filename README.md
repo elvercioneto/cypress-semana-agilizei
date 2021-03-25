@@ -1,7 +1,7 @@
 ﻿# semana-agilizei
 
 O Semana Agilizei 3.0 é um evento feito pelo Samuel Lucas do Agilizei com o intuito de apresentar de uma forma simples e com uma didática excelente, os primeiros passos com o Cypress. 
-São 5 dias de muito aprendizado.
+Foram 5 dias de muito aprendizado.
 
 Público Alvo: 
     - Pessoas que nunca trabalharam com automação de testes;
@@ -59,7 +59,7 @@ Dia 03
     - each
     - invoke
 - Criando nosso arquivo de funções úteis
-- Bricando com Javascript
+- Brincando com Javascript
 - Refatorando a implementação dos nossos testes
     - Interagindo com o localStorage
         - Criando um novo item no localStorage
